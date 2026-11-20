@@ -1,0 +1,9 @@
+[package]
+org = "dulminakodagoda"
+name = "server1"
+version = "0.1.0"
+distribution = "2201.13.5"
+title = "server1"
+
+[build-options]
+sticky = true
